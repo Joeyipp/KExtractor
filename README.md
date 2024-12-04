@@ -53,6 +53,7 @@ Entry point: run_KExtractor.py
 - [Drugbank](https://go.drugbank.com/)
 - [HunFlair](https://github.com/flairNLP/flair/blob/master/resources/docs/HUNFLAIR.md)
 
-
+## Acknowledgement
+Anirudh Sundar: https://github.com/Anirudh-Sundar
 
 
