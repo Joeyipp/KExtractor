@@ -13,6 +13,7 @@ Create a seperate python environment to use the code. The python version is 3.7.
 - flair 0.10
 - rdflib 6.1.1
 
+Entry point: run_KExtractor.py
 
 ## Pipeline Architecture
 ![Pipeline](/Images/pipeline.PNG)
